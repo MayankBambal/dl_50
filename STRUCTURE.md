@@ -22,9 +22,9 @@ dl_50/
 │   │   ├── code/
 │   │   ├── data/
 │   │   └── outputs/
-│   ├── day_01/                 # Day 1: What is Deep Learning?
-│   ├── day_02/                 # Day 2: The Perceptron Explained
-│   └── ... (through day_50)
+│   ├── day 1/                  # Day 1: What is Deep Learning?
+│   ├── day 2/                  # Day 2: The Perceptron Explained
+│   └── ... (through day 50)
 │
 ├── docs/                        # Documentation
 │   ├── syllabus.md             # Detailed course syllabus
@@ -80,10 +80,10 @@ dl_50/
 
 ### Daily Folders Structure
 
-Each day folder (day_01 through day_50) contains:
+Each day folder (day 1 through day 50) contains:
 
 ```
-day_XX/
+day XX/
 ├── README.md              # Day overview, objectives, exercises
 ├── notebooks/             # Jupyter notebooks
 │   └── day_XX_exercise.ipynb
@@ -119,7 +119,7 @@ day_XX/
 
 1. Start with [README.md](README.md) for overview
 2. Follow [installation.md](docs/installation.md) for setup
-3. Begin with [Day 1](daily/day_01/)
+3. Begin with [Day 1](daily/day%201/)
 4. Check [FAQ](docs/faq.md) if you have questions
 
 ### For Contributors
@@ -132,7 +132,7 @@ day_XX/
 ### For Course Creators
 
 1. Use [day_template](daily/day_template/) as reference
-2. Follow naming conventions (day_XX)
+2. Follow naming conventions (day XX)
 3. Update main README.md when adding days
 4. Keep structure consistent
 
@@ -147,7 +147,7 @@ data/raw/  data/processed/  models/     outputs/    projects/
 ## 🎯 Best Practices
 
 1. **Consistent Structure**: All days follow the same folder structure
-2. **Clear Naming**: Use descriptive names (day_XX, not day1)
+2. **Clear Naming**: Use descriptive names (day XX, not day1)
 3. **Documentation**: Every folder has a README explaining its purpose
 4. **Git Hygiene**: Use .gitignore to exclude large files
 5. **Modular Code**: Keep utilities in utils/, reusable scripts in scripts/
@@ -155,7 +155,7 @@ data/raw/  data/processed/  models/     outputs/    projects/
 ## 🔗 Quick Links
 
 - [Course Overview](README.md)
-- [Day 1](daily/day_01/)
+- [Day 1](daily/day%201/)
 - [Installation Guide](docs/installation.md)
 - [Syllabus](docs/syllabus.md)
 - [References](docs/references.md)

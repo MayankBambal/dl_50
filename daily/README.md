@@ -7,7 +7,7 @@ This directory contains all 50 days of the deep learning course.
 Each day folder follows this structure:
 
 ```
-day_XX/
+day XX/
 ├── README.md              # Day overview and objectives
 ├── notebooks/             # Jupyter notebooks
 │   └── day_XX_exercise.ipynb
@@ -18,9 +18,9 @@ day_XX/
 
 ## Navigation
 
-- **Day 1:** [What is Deep Learning?](day_01/)
-- **Day 2:** [The Perceptron Explained](day_02/)
-- **Day 3:** [Introduction to Neural Networks](day_03/)
+- **Day 1:** [What is Deep Learning?](day%201/)
+- **Day 2:** [The Perceptron Explained](day%202/)
+- **Day 3:** [Introduction to Neural Networks](day%203/)
 - ... (see main README.md for full list)
 
 ## Template

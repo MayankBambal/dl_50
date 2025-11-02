@@ -176,7 +176,7 @@ CMD ["jupyter", "lab", "--ip=0.0.0.0", "--allow-root"]
 
 Once installation is complete:
 
-1. Navigate to [Day 1](../daily/day_01/)
+1. Navigate to [Day 1](../daily/day%201/)
 2. Read the README for that day
 3. Open the Jupyter notebook
 4. Start learning! 🚀

@@ -191,5 +191,5 @@ Before starting, ensure you have:
 
 ---
 
-**Ready to start?** Begin with [Day 1](../daily/day_01/)!
+**Ready to start?** Begin with [Day 1](../daily/day%201/)!
 

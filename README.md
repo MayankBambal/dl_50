@@ -74,68 +74,68 @@ For detailed setup instructions, see [docs/installation.md](docs/installation.md
 ## 📖 Course Schedule
 
 ### Week 1: The Absolute Basics
-- [Day 1: What is Deep Learning?](daily/day_01/) - Introduction to Deep Learning
-- [Day 2: The Simplest "Brain"](daily/day_02/) - The Perceptron Explained
-- [Day 3: From One to Many](daily/day_03/) - Introduction to Neural Networks
-- [Day 4: How Do Neural Networks Learn?](daily/day_04/) - A Simple Guide to Backpropagation
-- [Day 5: The "On/Off Switch"](daily/day_05/) - Understanding Activation Functions
-- [Day 6: Measuring Mistakes](daily/day_06/) - A Beginner's Guide to Loss Functions
-- [Day 7: The Learning Engine](daily/day_07/) - Introduction to Optimizers
+- [Day 1: What is Deep Learning?](daily/day%201/) - Introduction to Deep Learning
+- [Day 2: The Simplest "Brain"](daily/day%202/) - The Perceptron Explained
+- [Day 3: From One to Many](daily/day%203/) - Introduction to Neural Networks
+- [Day 4: How Do Neural Networks Learn?](daily/day%204/) - A Simple Guide to Backpropagation
+- [Day 5: The "On/Off Switch"](daily/day%205/) - Understanding Activation Functions
+- [Day 6: Measuring Mistakes](daily/day%206/) - A Beginner's Guide to Loss Functions
+- [Day 7: The Learning Engine](daily/day%207/) - Introduction to Optimizers
 
 ### Week 2: Building Your First Practical Model
-- [Day 8: Your First "Hello World"](daily/day_08/) - MNIST with Keras/PyTorch
-- [Day 9: The Big Problem](daily/day_09/) - What is Overfitting?
-- [Day 10: Fighting Overfitting (Part 1)](daily/day_10/) - Introduction to Regularization
-- [Day 11: Fighting Overfitting (Part 2)](daily/day_11/) - Understanding Dropout
-- [Day 12: The Art of Tuning](daily/day_12/) - What Are Hyperparameters?
-- [Day 13: Better, Faster Training](daily/day_13/) - The Power of Batch Normalization
-- [Day 14: A Better Optimizer](daily/day_14/) - Why Everyone Uses "Adam"
+- [Day 8: Your First "Hello World"](daily/day%208/) - MNIST with Keras/PyTorch
+- [Day 9: The Big Problem](daily/day%209/) - What is Overfitting?
+- [Day 10: Fighting Overfitting (Part 1)](daily/day%2010/) - Introduction to Regularization
+- [Day 11: Fighting Overfitting (Part 2)](daily/day%2011/) - Understanding Dropout
+- [Day 12: The Art of Tuning](daily/day%2012/) - What Are Hyperparameters?
+- [Day 13: Better, Faster Training](daily/day%2013/) - The Power of Batch Normalization
+- [Day 14: A Better Optimizer](daily/day%2014/) - Why Everyone Uses "Adam"
 
 ### Week 3: Deep Learning for Images (CNNs)
-- [Day 15: Why Can't a Basic Neural Network "See"?](daily/day_15/) - The Limitations of MLPs
-- [Day 16: The Building Block of Vision](daily/day_16/) - The Convolution Layer Explained
-- [Day 17: Shrinking the Image](daily/day_17/) - Understanding Pooling Layers
-- [Day 18: Putting It All Together](daily/day_18/) - Building Your First CNN
-- [Day 19: A Look at History](daily/day_19/) - The Architecture of LeNet-5
-- [Day 20: The "Shortcut" to Success](daily/day_20/) - What is Transfer Learning?
-- [Day 21: Practical Project](daily/day_21/) - Using Pre-trained VGG or ResNet
+- [Day 15: Why Can't a Basic Neural Network "See"?](daily/day%2015/) - The Limitations of MLPs
+- [Day 16: The Building Block of Vision](daily/day%2016/) - The Convolution Layer Explained
+- [Day 17: Shrinking the Image](daily/day%2017/) - Understanding Pooling Layers
+- [Day 18: Putting It All Together](daily/day%2018/) - Building Your First CNN
+- [Day 19: A Look at History](daily/day%2019/) - The Architecture of LeNet-5
+- [Day 20: The "Shortcut" to Success](daily/day%2020/) - What is Transfer Learning?
+- [Day 21: Practical Project](daily/day%2021/) - Using Pre-trained VGG or ResNet
 
 ### Week 4: Deep Learning for Text (RNNs)
-- [Day 22: The Challenge of "Sequence"](daily/day_22/) - Introduction to Time Series and Text Data
-- [Day 23: Networks with "Memory"](daily/day_23/) - The Recurrent Neural Network (RNN)
-- [Day 24: The Problem with RNNs](daily/day_24/) - Vanishing and Exploding Gradients
-- [Day 25: The Solution](daily/day_25/) - Long Short-Term Memory (LSTM) Networks
-- [Day 26: A Simpler Alternative](daily/day_26/) - The Gated Recurrent Unit (GRU)
-- [Day 27: Reading Both Ways](daily/day_27/) - The Power of Bidirectional LSTMs
-- [Day 28: Practical Project](daily/day_28/) - Sentiment Analysis with an LSTM
+- [Day 22: The Challenge of "Sequence"](daily/day%2022/) - Introduction to Time Series and Text Data
+- [Day 23: Networks with "Memory"](daily/day%2023/) - The Recurrent Neural Network (RNN)
+- [Day 24: The Problem with RNNs](daily/day%2024/) - Vanishing and Exploding Gradients
+- [Day 25: The Solution](daily/day%2025/) - Long Short-Term Memory (LSTM) Networks
+- [Day 26: A Simpler Alternative](daily/day%2026/) - The Gated Recurrent Unit (GRU)
+- [Day 27: Reading Both Ways](daily/day%2027/) - The Power of Bidirectional LSTMs
+- [Day 28: Practical Project](daily/day%2028/) - Sentiment Analysis with an LSTM
 
 ### Week 5: The Bridge to Transformers (Seq2Seq & Attention)
-- [Day 29: How to Make Words into Numbers](daily/day_29/) - Introduction to Word Embeddings
-- [Day 30: Beyond Word2Vec](daily/day_30/) - Understanding GloVe and fastText
-- [Day 31: The Encoder-Decoder Architecture](daily/day_31/) - Building a "Seq2Seq" Model
-- [Day 32: The "Bottleneck" Problem](daily/day_32/) - Why Seq2Seq with RNNs Is Limited
-- [Day 33: The Big Idea](daily/day_33/) - An Intuitive Guide to the "Attention" Mechanism
-- [Day 34: Visualizing Attention](daily/day_34/) - Seeing How a Model Translates a Sentence
-- [Day 35: Project](daily/day_35/) - Build a Simple Seq2Seq Model
+- [Day 29: How to Make Words into Numbers](daily/day%2029/) - Introduction to Word Embeddings
+- [Day 30: Beyond Word2Vec](daily/day%2030/) - Understanding GloVe and fastText
+- [Day 31: The Encoder-Decoder Architecture](daily/day%2031/) - Building a "Seq2Seq" Model
+- [Day 32: The "Bottleneck" Problem](daily/day%2032/) - Why Seq2Seq with RNNs Is Limited
+- [Day 33: The Big Idea](daily/day%2033/) - An Intuitive Guide to the "Attention" Mechanism
+- [Day 34: Visualizing Attention](daily/day%2034/) - Seeing How a Model Translates a Sentence
+- [Day 35: Project](daily/day%2035/) - Build a Simple Seq2Seq Model
 
 ### Week 6: The Transformer Architecture
-- [Day 36: Goodbye RNNs](daily/day_36/) - Introducing the Transformer Architecture
-- [Day 37: The "Self-Attention" Mechanism](daily/day_37/) - The Heart of the Transformer
-- [Day 38: Why "Multi-Head" Attention?](daily/day_38/) - Looking at the Same Thing in Different Ways
-- [Day 39: The Transformer Encoder](daily/day_39/) - What's Inside?
-- [Day 40: The Transformer Decoder](daily/day_40/) - How It's Different from the Encoder
-- [Day 41: The "Time-Travel" Problem](daily/day_41/) - How Positional Encodings Work
-- [Day 42: Review](daily/day_42/) - The Full Transformer, Step-by-Step
+- [Day 36: Goodbye RNNs](daily/day%2036/) - Introducing the Transformer Architecture
+- [Day 37: The "Self-Attention" Mechanism](daily/day%2037/) - The Heart of the Transformer
+- [Day 38: Why "Multi-Head" Attention?](daily/day%2038/) - Looking at the Same Thing in Different Ways
+- [Day 39: The Transformer Encoder](daily/day%2039/) - What's Inside?
+- [Day 40: The Transformer Decoder](daily/day%2040/) - How It's Different from the Encoder
+- [Day 41: The "Time-Travel" Problem](daily/day%2041/) - How Positional Encodings Work
+- [Day 42: Review](daily/day%2042/) - The Full Transformer, Step-by-Step
 
 ### Week 7: The Models That Changed the World (BERT & GPT)
-- [Day 43: Meet BERT](daily/day_43/) - The "Encoder-Only" Transformer
-- [Day 44: How BERT is Trained](daily/day_44/) - Understanding Masked Language Models
-- [Day 45: What is "Fine-Tuning"?](daily/day_45/) - Using BERT for Text Classification
-- [Day 46: Meet GPT](daily/day_46/) - The "Decoder-Only" Transformer
-- [Day 47: How GPT is Trained](daily/day_47/) - Causal Language Modeling
-- [Day 48: The Rise of Large Language Models](daily/day_48/) - What GPT-3 Taught Us
-- [Day 49: BERT vs. GPT vs. T5](daily/day_49/) - A Simple Comparison of Modern Architectures
-- [Day 50: Final Project & Course Wrap-up](daily/day_50/) - Building Your Own Model
+- [Day 43: Meet BERT](daily/day%2043/) - The "Encoder-Only" Transformer
+- [Day 44: How BERT is Trained](daily/day%2044/) - Understanding Masked Language Models
+- [Day 45: What is "Fine-Tuning"?](daily/day%2045/) - Using BERT for Text Classification
+- [Day 46: Meet GPT](daily/day%2046/) - The "Decoder-Only" Transformer
+- [Day 47: How GPT is Trained](daily/day%2047/) - Causal Language Modeling
+- [Day 48: The Rise of Large Language Models](daily/day%2048/) - What GPT-3 Taught Us
+- [Day 49: BERT vs. GPT vs. T5](daily/day%2049/) - A Simple Comparison of Modern Architectures
+- [Day 50: Final Project & Course Wrap-up](daily/day%2050/) - Building Your Own Model
 
 ## 📁 Repository Structure
 
@@ -148,7 +148,7 @@ For detailed setup instructions, see [docs/installation.md](docs/installation.md
 ├── plan.csv                 # Course plan with all topics
 │
 ├── daily/                   # Daily lesson folders
-│   ├── day_01/
+│   ├── day 1/
 │   │   ├── README.md
 │   │   ├── notebooks/
 │   │   ├── code/
@@ -224,5 +224,5 @@ Keep track of your progress by checking off completed days:
 
 **Happy Learning! 🚀**
 
-*Start your journey with [Day 1](daily/day_01/) and work your way through all 50 days.*
+*Start your journey with [Day 1](daily/day%201/) and work your way through all 50 days.*
 

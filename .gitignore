@@ -102,6 +102,9 @@ runs/
 *.pkl
 *.pickle
 
+# Medium article
+medium articles/
+
 # Keep directory structure
 !**/.gitkeep
 

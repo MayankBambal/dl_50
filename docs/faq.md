@@ -4,6 +4,10 @@ Common questions and answers about the 50 Days of Deep Learning course.
 
 ## General Questions
 
+### Q: What is the completion deadline?
+
+**A:** The course will finish on **December 31st, 2025**. This is your 2025 resolution deadline. Plan your schedule to complete all 50 days by this date. If you start later, you can do multiple days per day or extend your daily time commitment to finish on time.
+
 ### Q: Do I need prior experience in machine learning?
 
 **A:** No! This course is designed for beginners. However, basic Python programming knowledge and familiarity with NumPy/Pandas is recommended.
@@ -98,6 +102,18 @@ Common questions and answers about the 50 Days of Deep Learning course.
 - Contribute to open-source ML projects
 - Follow latest research papers
 - Consider advanced courses or specializations
+- Celebrate completing your 2025 resolution! 🎉
+
+### Q: How can I stay motivated to finish by December 31st, 2025?
+
+**A:** Here are proven strategies:
+- **Start today** - Don't wait for the "perfect time"
+- **Track your progress** - Mark off completed days in the main README
+- **Share your commitment** - Tell others about your goal (accountability helps!)
+- **Use #50DaysDeepLearning** - Share milestones on social media
+- **Remember your why** - Visualize completing your 2025 resolution
+- **Consistency over intensity** - Better to do 1 hour daily than 7 hours once a week
+- **If you miss a day** - Don't give up! Just pick up the next day. The deadline is December 31st—you have time to catch up.
 
 ## Course Structure
 

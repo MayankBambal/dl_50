@@ -8,7 +8,15 @@ This course is designed to take you from absolute beginner to proficient in deep
 
 **Duration:** 50 days  
 **Format:** Self-paced  
-**Prerequisites:** Basic Python programming
+**Prerequisites:** Basic Python programming  
+**Completion Deadline:** December 31st, 2025  
+**Goal:** Finish your 2025 resolution
+
+## 🎯 The Commitment
+
+**The course will finish on December 31st, 2025. Let's finish this year's resolution—together.**
+
+This year, let's actually complete what we started. No more abandoned courses. Just 1-2 hours daily, starting today, finishing by December 31st, 2025.
 
 ## Learning Outcomes
 
@@ -163,8 +171,10 @@ Upon completion, students will be able to:
 
 ### Pacing
 - Self-paced learning
-- Recommended: one day per day
-- Can be completed faster or slower based on your schedule
+- Recommended: one day per day (1-2 hours)
+- **Completion Deadline:** December 31st, 2025
+- Plan your schedule to finish by the deadline
+- If you start later, you can complete multiple days per day or extend your daily time commitment
 
 ### Support
 - Check daily README files for guidance
@@ -191,5 +201,11 @@ Before starting, ensure you have:
 
 ---
 
-**Ready to start?** Begin with [Day 1](../daily/day%201/)!
+## 🎯 Remember: December 31st, 2025
+
+**The course will finish on December 31st, 2025. Let's finish this year's resolution.**
+
+Start today, spend 1-2 hours daily, and you'll complete your 2025 resolution. No more abandoned courses. This year, let's actually do it.
+
+**Ready to start?** Begin with [Day 1](../daily/day%201/) today!
 

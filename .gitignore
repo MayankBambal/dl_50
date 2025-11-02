@@ -1,0 +1,107 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Data files (uncomment if you don't want to track data)
+# data/raw/*
+# data/processed/*
+# !data/raw/.gitkeep
+# !data/processed/.gitkeep
+
+# Model files (usually too large for git)
+models/checkpoints/*
+models/trained/*
+models/pretrained/*
+!models/checkpoints/.gitkeep
+!models/trained/.gitkeep
+!models/pretrained/.gitkeep
+
+# Output files
+outputs/*
+!outputs/.gitkeep
+
+# Logs
+*.log
+logs/
+*.pth
+*.h5
+*.ckpt
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Weights & Biases
+wandb/
+
+# TensorBoard
+runs/
+*.tfevents.*
+
+# Large dataset files
+*.csv.gz
+*.zip
+*.tar.gz
+*.pkl
+*.pickle
+
+# Keep directory structure
+!**/.gitkeep
+

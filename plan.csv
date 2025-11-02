@@ -1,0 +1,50 @@
+Day,Week,Theme,Article_Title
+1,1,The Absolute Basics,What is Deep Learning? (And How Is It Different from AI and Machine Learning?)
+2,1,The Absolute Basics,The Simplest "Brain": The Perceptron Explained
+3,1,The Absolute Basics,From One to Many: Introduction to Neural Networks (The Multi-Layer Perceptron)
+4,1,The Absolute Basics,How Do Neural Networks Learn? A Simple Guide to Backpropagation
+5,1,The Absolute Basics,The "On/Off Switch": Understanding Activation Functions (ReLU, Sigmoid, Tanh)
+6,1,The Absolute Basics,Measuring Mistakes: A Beginner's Guide to Loss Functions (MSE vs. Cross-Entropy)
+7,1,The Absolute Basics,The Learning Engine: Introduction to Optimizers (What is Stochastic Gradient Descent?)
+8,2,Building Your First Practical Model,Your First "Hello World" in Deep Learning (e.g., MNIST with Keras/PyTorch)
+9,2,Building Your First Practical Model,The Big Problem: What is Overfitting (And How Do You Spot It?)
+10,2,Building Your First Practical Model,Fighting Overfitting (Part 1): An Introduction to Regularization (L1, L2)
+11,2,Building Your First Practical Model,Fighting Overfitting (Part 2): Understanding Dropout
+12,2,Building Your First Practical Model,The Art of Tuning: What Are Hyperparameters? (Learning Rate, Batch Size)
+13,2,Building Your First Practical Model,Better, Faster Training: The Power of Batch Normalization
+14,2,Building Your First Practical Model,A Better Optimizer: Why Everyone Uses "Adam" (And How It Works)
+15,3,Deep Learning for Images (CNNs),Why Can't a Basic Neural Network "See"? (The Limitations of MLPs for Images)
+16,3,Deep Learning for Images (CNNs),The Building Block of Vision: The Convolution Layer Explained
+17,3,Deep Learning for Images (CNNs),Shrinking the Image: Understanding Pooling Layers (Max Pooling vs. Average)
+18,3,Deep Learning for Images (CNNs),Putting It All Together: Building Your First CNN (e.g., CIFAR-10)
+19,3,Deep Learning for Images (CNNs),A Look at History: The Architecture of LeNet-5
+20,3,Deep Learning for Images (CNNs),The "Shortcut" to Success: What is Transfer Learning?
+21,3,Deep Learning for Images (CNNs),Practical Project: Using a Pre-trained VGG or ResNet for a Custom Classifier
+22,4,Deep Learning for Text (RNNs),The Challenge of "Sequence": Introduction to Time Series and Text Data
+23,4,Deep Learning for Text (RNNs),Networks with "Memory": The Recurrent Neural Network (RNN)
+24,4,Deep Learning for Text (RNNs),The Problem with RNNs: Vanishing and Exploding Gradients
+25,4,Deep Learning for Text (RNNs),The Solution: Long Short-Term Memory (LSTM) Networks Explained
+26,4,Deep Learning for Text (RNNs),A Simpler Alternative: The Gated Recurrent Unit (GRU)
+27,4,Deep Learning for Text (RNNs),Reading Both Ways: The Power of Bidirectional LSTMs (Bi-LSTM)
+28,4,Deep Learning for Text (RNNs),Practical Project: Sentiment Analysis with an LSTM
+29,5,The Bridge to Transformers (Seq2Seq & Attention),How to Make Words into Numbers: An Introduction to Word Embeddings (Word2Vec)
+30,5,The Bridge to Transformers (Seq2Seq & Attention),Beyond Word2Vec: Understanding GloVe and fastText
+31,5,The Bridge to Transformers (Seq2Seq & Attention),The Encoder-Decoder Architecture: Building a "Seq2Seq" Model
+32,5,The Bridge to Transformers (Seq2Seq & Attention),The "Bottleneck" Problem: Why Seq2Seq with RNNs Is Limited
+33,5,The Bridge to Transformers (Seq2Seq & Attention),The Big Idea: An Intuitive Guide to the "Attention" Mechanism
+34,5,The Bridge to Transformers (Seq2Seq & Attention),Visualizing Attention: Seeing How a Model Translates a Sentence
+35,5,The Bridge to Transformers (Seq2Seq & Attention),Project: Build a Simple Seq2Seq Model (with or without Attention)
+36,6,The Transformer Architecture,Goodbye RNNs: Introducing the Transformer Architecture
+37,6,The Transformer Architecture,The "Self-Attention" Mechanism: The Heart of the Transformer
+38,6,The Transformer Architecture,Why "Multi-Head" Attention? (Looking at the Same Thing in Different Ways)
+39,6,The Transformer Architecture,The Transformer Encoder: What's Inside? (Feed-Forward, Add & Norm)
+40,6,The Transformer Architecture,The Transformer Decoder: How It's Different from the Encoder
+41,6,The Transformer Architecture,The "Time-Travel" Problem: How Positional Encodings Work
+42,6,The Transformer Architecture,Review: The Full Transformer, Step-by-Step (A "Show-and-Tell")
+43,7,The Models That Changed the World (BERT & GPT),Meet BERT: The "Encoder-Only" Transformer
+44,7,The Models That Changed the World (BERT & GPT),How BERT is Trained: Understanding Masked Language Models (MLM)
+45,7,The Models That Changed the World (BERT & GPT),What is "Fine-Tuning"? Using BERT for Text Classification
+46,7,The Models That Changed the World (BERT & GPT),Meet GPT: The "Decoder-Only" Transformer
+47,7,The Models That Changed the World (BERT & GPT),How GPT is Trained: Causal Language Modeling (Predicting the Next Word)
+48,7,The Models That Changed the World (BERT & GPT),The Rise of Large Language Models (LLMs): What GPT-3 Taught Us
+49,7,The Models That Changed the World (BERT & GPT),BERT vs. GPT vs. T5: A Simple Comparison of Modern Architectures

@@ -61,32 +61,33 @@ By the end of this course, you will:
 > **Course finishes:** December 31st, 2025  
 > **Join us on launch day to complete your resolution this year!**
 
-### Installation
+### Getting Started with Google Colab
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/50-days-deep-learning.git
-   cd 50-days-deep-learning
-   ```
+This course is designed to be used with **Google Colab** throughout. No local installation required!
 
-2. **Create a virtual environment**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
+1. **Create a Google Colab account** (free, just need a Google account)
+   - Go to [colab.research.google.com](https://colab.research.google.com)
 
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. **Clone or download this repository**
+   - You can either clone it locally or upload notebooks directly to Colab
+   - All notebooks are in the `daily/day X/notebooks/` folders
 
-4. **Set up Jupyter Notebook** (if not already installed)
-   ```bash
-   pip install jupyter
-   jupyter notebook
-   ```
+3. **Open Day 1 notebook in Google Colab**
+   - Navigate to `daily/day 1/notebooks/day1_1.ipynb`
+   - Upload to Google Colab or open directly if you have the repo synced
+
+4. **Enable GPU runtime** (for faster training)
+   - In Colab: Runtime → Change runtime type → Hardware accelerator → GPU
+   - Free tier provides GPU access (with usage limits)
 
 5. **Start Day 1 today!** Open `daily/day 1/README.md` and begin your journey.
+
+**Why Google Colab?**
+- Free GPU access (no expensive hardware needed)
+- Pre-installed libraries (PyTorch, NumPy, etc.)
+- No local setup required
+- Easy sharing and collaboration
+- Perfect for learning deep learning
 
 For detailed setup instructions, see [docs/installation.md](docs/installation.md).
 
@@ -104,7 +105,7 @@ For detailed setup instructions, see [docs/installation.md](docs/installation.md
 - [Day 7: The Learning Engine](daily/day%207/) - Introduction to Optimizers
 
 ### Week 2: Building Your First Practical Model
-- [Day 8: Your First "Hello World"](daily/day%208/) - MNIST with Keras/PyTorch
+- [Day 8: Your First "Hello World"](daily/day%208/) - MNIST with PyTorch
 - [Day 9: The Big Problem](daily/day%209/) - What is Overfitting?
 - [Day 10: Fighting Overfitting (Part 1)](daily/day%2010/) - Introduction to Regularization
 - [Day 11: Fighting Overfitting (Part 2)](daily/day%2011/) - Understanding Dropout
@@ -200,12 +201,13 @@ For detailed setup instructions, see [docs/installation.md](docs/installation.md
 
 ## 🛠️ Technologies Used
 
+- **Google Colab** - Primary development environment (free GPU access, pre-installed libraries)
 - **PyTorch 2.5+** - Primary deep learning framework (latest stable version)
 - **Python 3.12+** - Latest Python version
 - **NumPy 2.0+** - Numerical computing
 - **Pandas 2.2+** - Data manipulation
 - **Matplotlib/Seaborn** - Visualization
-- **Jupyter Notebooks** - Interactive learning
+- **Jupyter Notebooks** - Interactive learning (via Google Colab)
 - **Transformers** - Hugging Face transformers library (for BERT, GPT, etc.)
 - **Scikit-learn** - Machine learning utilities
 

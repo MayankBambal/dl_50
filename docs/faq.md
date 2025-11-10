@@ -24,9 +24,9 @@ Common questions and answers about the 50 Days of Deep Learning course.
 
 **A:** No, but it's recommended for later weeks (especially weeks 3-7). Early weeks can be completed on CPU. GPU will significantly speed up training.
 
-### Q: Which framework should I use: PyTorch or TensorFlow?
+### Q: Which framework does this course use?
 
-**A:** This course primarily uses **PyTorch 2.5+** (latest stable version) as the main framework. PyTorch is widely adopted in research and industry, with excellent documentation and community support. TensorFlow is also excellent, but the exercises in this course focus on PyTorch. The concepts are framework-agnostic and transferable.
+**A:** This course uses **PyTorch 2.5+** exclusively. We focus solely on PyTorch to maximize learning efficiency in this intensive 50-day format. All exercises, examples, and projects use PyTorch.
 
 ## Technical Questions
 

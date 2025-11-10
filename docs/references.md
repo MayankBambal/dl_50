@@ -56,9 +56,8 @@ Comprehensive list of resources, papers, and materials referenced throughout the
 
 ### Documentation & Tutorials
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
-- [TensorFlow Guides](https://www.tensorflow.org/guide)
 - [Hugging Face Course](https://huggingface.co/course)
-- [Keras Guide](https://keras.io/guides/)
+- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 
 ### Learning Resources
 - [Papers With Code](https://paperswithcode.com/)
@@ -75,9 +74,7 @@ Comprehensive list of resources, papers, and materials referenced throughout the
 ## 🛠️ Tools & Libraries
 
 ### Frameworks
-- [PyTorch](https://pytorch.org/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [JAX](https://github.com/google/jax)
+- [PyTorch](https://pytorch.org/) - The framework used in this course
 
 ### NLP
 - [Transformers (Hugging Face)](https://huggingface.co/transformers)
@@ -85,7 +82,7 @@ Comprehensive list of resources, papers, and materials referenced throughout the
 - [NLTK](https://www.nltk.org/)
 
 ### Visualization
-- [TensorBoard](https://www.tensorflow.org/tensorboard)
+- [TensorBoard](https://www.tensorflow.org/tensorboard) - Works with PyTorch via `torch.utils.tensorboard`
 - [Weights & Biases](https://wandb.ai/)
 - [Netron](https://netron.app/) - Neural network visualizer
 
@@ -113,7 +110,6 @@ Comprehensive list of resources, papers, and materials referenced throughout the
 - [r/deeplearning](https://www.reddit.com/r/deeplearning/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/deep-learning)
 - [PyTorch Forums](https://discuss.pytorch.org/)
-- [TensorFlow Discussions](https://discuss.tensorflow.org/)
 
 ## 📊 Research Aggregators
 

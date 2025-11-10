@@ -10,7 +10,9 @@ This document provides a comprehensive breakdown of each day in the 50 Days of D
 - **Key Learnings**: New PyTorch functions, concepts, and techniques
 - **References**: Recommended books, tutorials, and papers for deeper learning
 
-**Note**: This course primarily uses PyTorch 2.5+ as the main framework, with TensorFlow/Keras as optional secondary examples.
+**Note**: This course uses PyTorch 2.5+ exclusively as our deep learning framework. We focus solely on Python as our programming language to maximize learning efficiency in this intensive 50-day format.
+
+**Environment**: This course is designed to be used with **Google Colab** throughout. All notebooks are optimized for Google Colab, which provides free GPU access and pre-installed libraries, making it the ideal environment for learning deep learning without local setup hassles.
 
 ---
 
@@ -31,21 +33,24 @@ This document provides a comprehensive breakdown of each day in the 50 Days of D
 - Introduction to neural networks as universal function approximators
 
 **Tools Used:**
-- Python 3.12+
+- Google Colab (primary environment for all course work)
+- Python 3.12+ (pre-installed in Colab)
 - NumPy (for basic array operations)
-- PyTorch installation and verification
-- Jupyter Notebooks (optional, for interactive learning)
+- PyTorch installation and verification (pre-installed in Colab)
+- Jupyter Notebooks (via Google Colab)
 - Functions: `torch.__version__`, `numpy.array()`, `import torch`
 
 **Key Learnings:**
 - How to verify PyTorch installation: `torch.cuda.is_available()` for GPU support
 - Basic tensor concept (though not yet implemented)
-- Environment setup and virtual environments
+- Setting up Google Colab and enabling GPU runtime
 - Understanding the difference between deep learning frameworks
+- Using Google Colab's free GPU resources for deep learning
 
 **References:**
 - **Book**: "Deep Learning" by Ian Goodfellow - Chapter 1 (Introduction)
 - **Tutorial**: [PyTorch Getting Started](https://pytorch.org/get-started/locally/)
+- **Tutorial**: [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
 - **Online**: [Deep Learning Course by fast.ai](https://www.fast.ai/)
 - **Video**: Andrew Ng's Deep Learning Specialization - Course 1, Week 1
 

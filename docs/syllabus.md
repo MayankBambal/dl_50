@@ -12,6 +12,10 @@ This course is designed to take you from absolute beginner to proficient in deep
 **Completion Deadline:** December 31st, 2025  
 **Goal:** Finish your 2025 resolution
 
+**Framework:** This course focuses exclusively on PyTorch to maximize learning efficiency in this intensive 50-day format. We use Python as our sole programming language to keep the course focused and streamlined.
+
+**Environment:** This course is designed to be used with **Google Colab** throughout. All notebooks are optimized for Google Colab, which provides free GPU access and pre-installed libraries, making it the ideal environment for learning deep learning without local setup hassles.
+
 ## 🎯 The Commitment
 
 **The course will finish on December 31st, 2025. Let's finish this year's resolution—together.**
@@ -164,7 +168,6 @@ Upon completion, students will be able to:
 
 ### Online Resources
 - [PyTorch Documentation](https://pytorch.org/docs/)
-- [TensorFlow Tutorials](https://www.tensorflow.org/learn)
 - [Papers With Code](https://paperswithcode.com/)
 
 ## Course Policies
@@ -192,12 +195,13 @@ While this course doesn't provide formal certification, completing all 50 days d
 
 Before starting, ensure you have:
 
-- [ ] Python 3.12+ installed (latest stable version)
-- [ ] PyTorch 2.5+ installed (will be installed via requirements.txt)
+- [ ] Google Colab account (free, just need a Google account)
 - [ ] Basic Python programming knowledge
-- [ ] Familiarity with NumPy and Pandas
-- [ ] Comfortable with command line/terminal
-- [ ] Virtual environment setup knowledge (we'll guide you)
+- [ ] Familiarity with NumPy and Pandas (helpful but not required)
+- [ ] Understanding of how to use Google Colab notebooks
+- [ ] Knowledge of how to enable GPU runtime in Google Colab (we'll guide you)
+
+**Note:** No local installation required! All work is done in Google Colab, which comes with Python, PyTorch, and all necessary libraries pre-installed.
 
 ---
 

@@ -217,6 +217,7 @@ For detailed setup instructions, see [docs/installation.md](docs/installation.md
 - [Installation Guide](docs/installation.md)
 - [References & Further Reading](docs/references.md)
 - [FAQ](docs/faq.md)
+- [Medium Articles - 50 Day Deep Learning Basics](https://medium.com/@mayankbambal/list/50-day-deep-learning-basics-1429e87d6644)
 
 ## 🤝 Contributing
 

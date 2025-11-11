@@ -159,6 +159,7 @@ Upon completion, students will be able to:
 
 ### Required Reading
 - Daily articles provided in each day's folder
+- [Medium Articles - 50 Day Deep Learning Basics](https://medium.com/@mayankbambal/list/50-day-deep-learning-basics-1429e87d6644)
 - Research papers (links provided)
 
 ### Recommended Books

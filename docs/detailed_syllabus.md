@@ -53,6 +53,7 @@ This document provides a comprehensive breakdown of each day in the 50 Days of D
 - **Tutorial**: [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
 - **Online**: [Deep Learning Course by fast.ai](https://www.fast.ai/)
 - **Video**: Andrew Ng's Deep Learning Specialization - Course 1, Week 1
+- **Medium Articles**: [50 Day Deep Learning Basics](https://medium.com/@mayankbambal/list/50-day-deep-learning-basics-1429e87d6644)
 
 ---
 

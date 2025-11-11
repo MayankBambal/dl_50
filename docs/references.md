@@ -139,6 +139,7 @@ Comprehensive list of resources, papers, and materials referenced throughout the
 
 ## 📝 Blogs to Follow
 
+- **[50 Day Deep Learning Basics](https://medium.com/@mayankbambal/list/50-day-deep-learning-basics-1429e87d6644)** - Medium articles for this course
 - **Distill.pub** - Interactive research articles
 - **Lil'Log** - Technical blog posts
 - **Jay Alammar's Blog** - Visual explanations of transformers

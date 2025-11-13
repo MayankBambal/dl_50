@@ -3,6 +3,8 @@
 **Level 1 (Product Manager Study):**
 - **Video:**
 - **Blog:**
+  
+  - [Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions)
 
 **Level 2 (Junior Data Scientist):**
 - **Code:**

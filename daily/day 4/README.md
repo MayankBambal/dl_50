@@ -2,12 +2,16 @@
 
 **Level 1 (Product Manager Study):**
 - **Video:**
+  -[Backpropagation, intuitively | Deep Learning Chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+  -[Backpropagation calculus | Deep Learning Chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 - **Blog:**
+  - [Day 4: Backpropagation — How Networks Learn](https://medium.com/@mayankbambal/day-4-backpropagation-how-networks-learn-1c92f66ea3da)
 
 **Level 2 (Junior Data Scientist):**
 - **Code:**
   - [day4.ipynb](notebooks/day4.ipynb)
 - **Books:**
+  - "Neural Networks and Deep Learning" by Michael Nielsen - Chapter 2 (Backpropagation Algorithm)
 - **Interview questions:**
   - [Easy Interview Questions](interview_questions/easy_questions.md)
 
@@ -15,6 +19,7 @@
 - **Interview questions:**
   - [Medium Interview Questions](interview_questions/medium_questions.md)
 - **Books:**
+  - "Deep Learning" by Ian Goodfellow - Chapter 6.5 (Back-Propagation and Other Differentiation Algorithms)
 
 ## **Plan**
 

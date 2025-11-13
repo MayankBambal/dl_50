@@ -43,7 +43,8 @@ tokenizers>=0.19.0
 tqdm>=4.65.0
 pyyaml>=6.0
 tensorboard>=2.13.0
-
+pydot
+graphviz
 # Optional: Experiment Tracking
 # wandb>=0.15.0
 

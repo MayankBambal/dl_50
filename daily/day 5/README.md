@@ -2,14 +2,16 @@
 
 **Level 1 (Product Manager Study):**
 - **Video:**
+  - [Why Non-linear Activation Functions (C1W3L07)](https://youtu.be/NkOv_k7r6no?si=gcwmOw-9Zl3BP5Q9)
+
 - **Blog:**
-  
-  - [Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions)
+  - [Day 5: Activation Functions - The "Spark" of the Network]()
 
 **Level 2 (Junior Data Scientist):**
 - **Code:**
   - [day5.ipynb](notebooks/day5.ipynb)
-- **Books:**
+- **Blog:**
+  -  [Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions)
 - **Interview questions:**
   - [Easy Interview Questions](interview_questions/easy_questions.md)
 
@@ -17,6 +19,7 @@
 - **Interview questions:**
   - [Medium Interview Questions](interview_questions/medium_questions.md)
 - **Books:**
+  - "Hands-On Machine Learning" by Aurélien Géron - Chapter 10 (Activation Functions)
 
 ## **Plan**
 

@@ -2,12 +2,15 @@
 
 **Level 1 (Product Manager Study):**
 - **Video:**
+  - [Loss or Cost Function | Deep Learning Tutorial 11 (Tensorflow Tutorial, Keras & Python)](https://youtu.be/E1yyaLRUnLo?si=o9utucxMqWCxcKhb)
 - **Blog:**
+  - [Day 6: Loss Functions - Measuring How Wrong We Are](https://medium.com/deep-learning-journal/day-6-loss-functions-measuring-how-wrong-we-are-0385db5c65cf)
 
 **Level 2 (Junior Data Scientist):**
 - **Code:**
   - [day6.ipynb](notebooks/day6.ipynb)
-- **Books:**
+- **Blog:**
+  - [Loss Functions in Deep Learning](https://www.geeksforgeeks.org/deep-learning/loss-functions-in-deep-learning/)
 - **Interview questions:**
   - [Easy Interview Questions](interview_questions/easy_questions.md)
 
@@ -15,6 +18,7 @@
 - **Interview questions:**
   - [Medium Interview Questions](interview_questions/medium_questions.md)
 - **Books:**
+  - "Hands-On Machine Learning" by Aurélien Géron - Chapter 4 (Training Models - Loss Functions)
 
 ## **Plan**
 

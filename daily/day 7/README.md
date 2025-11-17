@@ -2,12 +2,14 @@
 
 **Level 1 (Product Manager Study):**
 - **Video:**
+  - [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+  - [Optimization for Deep Learning (Momentum, RMSprop, AdaGrad, Adam) ](https://www.youtube.com/watch?v=NE88eqLngkg)
 - **Blog:**
+  - [Day 7: Optimizers — The Learning Algorithm](https://medium.com/deep-learning-journal/day-7-optimizers-the-learning-algorithm-b2ebe1b1c823?postPublishedType=initial)
 
 **Level 2 (Junior Data Scientist):**
-- **Code:**
-  - [day7.ipynb](notebooks/day7.ipynb)
 - **Books:**
+  - "Deep Learning" by Ian Goodfellow - Chapter 8 (Optimization for Training Deep Models)
 - **Interview questions:**
   - [Easy Interview Questions](interview_questions/easy_questions.md)
 
@@ -15,6 +17,7 @@
 - **Interview questions:**
   - [Medium Interview Questions](interview_questions/medium_questions.md)
 - **Books:**
+  - "Neural Networks and Deep Learning" by Michael Nielsen - Chapter 1 (Gradient Descent)
 
 ## **Plan**
 

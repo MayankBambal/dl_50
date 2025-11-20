@@ -2,19 +2,21 @@
 
 **Level 1 (Product Manager Study):**
 - **Video:**
+  - [Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)
+  - [Andrew Ng: Bias and Variance](https://www.coursera.org/learn/machine-learning/lecture/4VDH1/bias-and-variance)
 - **Blog:**
-
+  - [Day 9: Overfitting — When Your Model Memorizes Instead of Learning](https://medium.com/deep-learning-journal/day-9-overfitting-when-your-model-memorizes-instead-of-learning-b97b5d7fe3ce)
 **Level 2 (Junior Data Scientist):**
-- **Code:**
-  - [day9.ipynb](notebooks/day9.ipynb)
 - **Books:**
+  - "Deep Learning" by Ian Goodfellow - Chapter 5.2 (Capacity, Overfitting and Underfitting)
 - **Interview questions:**
   - [Easy Interview Questions](interview_questions/easy_questions.md)
 
 **Level 3 (Data Scientist):**
 - **Interview questions:**
   - [Medium Interview Questions](interview_questions/medium_questions.md)
-- **Books:**
+- **Blogs:**
+  - [Understanding Overfitting](https://www.kaggle.com/dansbecker/underfitting-and-overfitting)
 
 ## **Plan**
 

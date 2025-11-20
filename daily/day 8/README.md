@@ -2,19 +2,20 @@
 
 **Level 1 (Product Manager Study):**
 - **Video:**
+  - [Build Your First Pytorch Model In Minutes! [Tutorial + Code]](https://www.youtube.com/watch?v=tHL5STNJKag)
 - **Blog:**
-
+   - [Day 8: Most Comprehensive Neural Network Tutorial Ever](https://medium.com/deep-learning-journal/day-8-most-comprehensive-neural-network-tutorial-ever-eaad250d1886)
 **Level 2 (Junior Data Scientist):**
 - **Code:**
   - [day8.ipynb](notebooks/day8.ipynb)
 - **Books:**
+  - "Hands-On Machine Learning" by Aurélien Géron - Chapter 10 (Introduction to Artificial Neural Networks)
 - **Interview questions:**
   - [Easy Interview Questions](interview_questions/easy_questions.md)
 
 **Level 3 (Data Scientist):**
 - **Interview questions:**
   - [Medium Interview Questions](interview_questions/medium_questions.md)
-- **Books:**
 
 ## **Plan**
 

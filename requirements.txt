@@ -46,7 +46,7 @@ tensorboard>=2.13.0
 pydot
 graphviz
 # Optional: Experiment Tracking
-# wandb>=0.15.0
+mlflow>=2.0.0
 
 # Optional: Model Interpretability
 # shap>=0.42.0

@@ -2,12 +2,15 @@
 
 **Level 1 (Product Manager Study):**
 - **Video:**
+  -[Regularization Part 1: Ridge (L2) Regression](https://www.youtube.com/watch?v=Q81RR3yKn30)
+  -[Regularization Part 2: Lasso (L1) Regression](https://www.youtube.com/watch?v=NGf0voTMlcs)
+  -[Regularization in a Neural Network | Dealing with overfitting](https://www.youtube.com/watch?v=EehRcPo1M-Q)
 - **Blog:**
+  -[Day 10: All About Regularization (L1, L2)](https://medium.com/deep-learning-journal/day-10-all-about-regularization-l1-l2-2abf656b5f69)
 
 **Level 2 (Junior Data Scientist):**
-- **Code:**
-  - [day10.ipynb](notebooks/day10.ipynb)
 - **Books:**
+  - "Hands-On Machine Learning" by Aurélien Géron - Chapter 4 (Regularization)
 - **Interview questions:**
   - [Easy Interview Questions](interview_questions/easy_questions.md)
 
@@ -15,6 +18,7 @@
 - **Interview questions:**
   - [Medium Interview Questions](interview_questions/medium_questions.md)
 - **Books:**
+  - "Deep Learning" by Ian Goodfellow - Chapter 7.1 (Regularization)
 
 ## **Plan**
 

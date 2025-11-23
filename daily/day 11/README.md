@@ -2,19 +2,22 @@
 
 **Level 1 (Product Manager Study):**
 - **Video:**
+  -[Dropout Regularization (C2W1L06)](https://www.youtube.com/watch?v=D8PJAL-MZv8&t=9s)
+  -[What is Dropout Regularization | How is it different?](https://www.youtube.com/watch?v=kry2JghtMSY)
 - **Blog:**
+  -[Day 11: All about Dropout Regularization in Neural Networks](https://medium.com/deep-learning-journal/day-11-all-about-dropout-regularization-in-neural-networks-b975c08bc07e)
 
 **Level 2 (Junior Data Scientist):**
-- **Code:**
-  - [day11.ipynb](notebooks/day11.ipynb)
 - **Books:**
+  - "Deep Learning" by Ian Goodfellow - Chapter 7.12 (Dropout)
 - **Interview questions:**
   - [Easy Interview Questions](interview_questions/easy_questions.md)
 
 **Level 3 (Data Scientist):**
 - **Interview questions:**
   - [Medium Interview Questions](interview_questions/medium_questions.md)
-- **Books:**
+- **Paper:**
+  - Srivastava, N., et al. (2014). "Dropout: A Simple Way to Prevent Neural Networks from Overfitting"
 
 ## **Plan**
 
